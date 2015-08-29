@@ -8,7 +8,9 @@ This repository provides Easy and simple ways to use PyCuda "Cuda library for Py
 For more information look at few examples:
 
 ArithmeticExample : http://wiki.tiker.net/PyCuda/Examples/ArithmeticExample
+
 ThreadsAndBlocks : http://wiki.tiker.net/PyCuda/Examples/ThreadsAndBlocks
+
 Manhattan_Distance_For_2D_Array : http://wiki.tiker.net/PyCuda/Examples/Manhattan_Distance_For_2D_Array
 
 
