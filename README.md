@@ -5,6 +5,12 @@ PyCuda Intense Math
 
 This repository provides Easy and simple ways to use PyCuda "Cuda library for Python". Contact me "sugeerth@gmail.com" for further details. 
 
+For more information look at few examples:
+
+ArithmeticExample : http://wiki.tiker.net/PyCuda/Examples/ArithmeticExample
+ThreadsAndBlocks : http://wiki.tiker.net/PyCuda/Examples/ThreadsAndBlocks
+Manhattan_Distance_For_2D_Array : http://wiki.tiker.net/PyCuda/Examples/Manhattan_Distance_For_2D_Array
+
 
 ### LICENSE
 
