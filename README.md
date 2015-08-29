@@ -1,7 +1,11 @@
-pycuda
+PyCuda
 ======
 
-PyCuda Intense Math 
+PyCuda Intense Math Code Examples: 
+
+PyCUDA is a Python programming environment for CUDA. Thanks to Andreas for providing this infrastructure to interface python with CUDA. 
+
+More about CUDA : http://wiki.tiker.net/PyCuda
 
 This repository provides Easy and simple ways to use PyCuda "Cuda library for Python". Contact me "sugeerth@gmail.com" for further details. 
 
