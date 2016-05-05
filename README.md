@@ -1,5 +1,4 @@
-# PyCuda Math # 
-======
+#PyCuda Math# 
 
 [![ScreenShot](http://www.bu.edu/pasi/files/2010/10/pycuda-workflow2.png)]()
 
